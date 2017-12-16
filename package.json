@@ -1,0 +1,25 @@
+{
+  "name": "twitterscannerwebapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nrimal/twitterScannerWebApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nrimal/twitterScannerWebApp/issues"
+  },
+  "homepage": "https://github.com/nrimal/twitterScannerWebApp#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "twilio": "^3.10.1",
+    "twitter": "^1.7.1"
+  }
+}

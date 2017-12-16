@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+userPhone.js
+keyConfig.js
