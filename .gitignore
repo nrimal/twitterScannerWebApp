@@ -59,3 +59,5 @@ typings/
 
 userPhone.js
 keyConfig.js
+
+client/*.json
